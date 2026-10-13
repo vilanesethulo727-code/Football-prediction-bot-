@@ -1,0 +1,13 @@
+date,league,home_team,away_team,home_goals,away_goals
+2026-08-01,Example League,Team A,Team B,2,1
+2026-08-02,Example League,Team C,Team A,1,1
+2026-08-03,Example League,Team B,Team C,0,2
+2026-08-08,Example League,Team A,Team C,1,0
+2026-08-09,Example League,Team B,Team A,2,2
+2026-08-10,Example League,Team C,Team B,1,0
+2026-08-15,Example League,Team A,Team B,3,1
+2026-08-16,Example League,Team C,Team A,0,0
+2026-08-17,Example League,Team B,Team C,1,2
+2026-08-22,Example League,Team A,Team C,2,2
+2026-08-23,Example League,Team B,Team A,1,0
+2026-08-24,Example League,Team C,Team B,2,1
